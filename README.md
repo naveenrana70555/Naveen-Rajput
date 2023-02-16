@@ -1,6 +1,6 @@
+<img alt="Loading" src="https://devtechnosys.com/insights/wp-content/uploads/2022/09/Front-End-Developers.gif"/>
 <h1 align="center">Hi 👋, I'm Naveen Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img alt="Loading" src="https://devtechnosys.com/insights/wp-content/uploads/2022/09/Front-End-Developers.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenrana70555&label=Profile%20views&color=0e75b6&style=flat" alt="naveenrana70555" /> </p>
 
